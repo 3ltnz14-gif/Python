@@ -1,0 +1,5 @@
+print("Hello World", "! \n")
+print("1 + 1 =", 1 + 1)
+print("Hello Python \n")
+print("Hello", "!")
+print( "welcome to", end= "*")
