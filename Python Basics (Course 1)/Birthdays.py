@@ -1,0 +1,10 @@
+a = "11/02/06"
+b = "12/12/12"
+c = "11/11/11"
+d = "10/10/10"
+e = "09/09/09"
+print("Friend 1:", a)
+print("Friend 2:", b)
+print("Friend 3:", c)
+print("Friend 4:", d)
+print("Friend 5:", e)
