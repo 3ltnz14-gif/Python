@@ -6,8 +6,8 @@ z = 0
 z = (v+w) * x/y
 print("value of (v+w) * x/y is {0}" .format(z))
 
-name = "John"
-age = 2
+name = "Alex"
+age = 0
 
 if name == "Alex" or name == "John" and age >= 2:
     print("Hello!")
