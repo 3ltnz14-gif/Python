@@ -10,6 +10,6 @@ try:
     n = int(input("Enter your age: "))
     enterage(n)
 except ValueError:
-    print("Only positive integers are allowed")
+    print("Input should be a positive integer")
 except:
     print("Something is wrong")
