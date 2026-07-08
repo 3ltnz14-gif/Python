@@ -18,8 +18,10 @@ print("\n")
 def head(n):
     if n == 0:
         return
-    head(n)
+    head(n-1)
     print(n)
+head(5)
+print("\n")
 
 #Part 4
 def incdec(n):
